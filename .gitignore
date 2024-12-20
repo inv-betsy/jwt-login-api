@@ -1,2 +1,8 @@
+# Node.js dependencies
 node_modules/
+
+# Environment variables file
 .env
+
+# Package lock file (optional, but recommended to be included in version control if you want to lock dependencies)
+package-lock.json
